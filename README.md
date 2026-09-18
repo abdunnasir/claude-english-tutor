@@ -29,7 +29,7 @@ Input: `We see a doctor today as Tim was not feeling well.`
 **Corrected sentence:** We saw a doctor today as Tim was not feeling well.
 
 ### Kinds of fixes it catches
-- Verb tense errors
-- Word choice / register (e.g. "well" vs "good")
-- Preposition and article mistakes
-- Awkward phrasing that's grammatical but not natural
+- **Verb tense errors** — "We see a doctor today" → "We saw a doctor today"
+- **Word choice / register** — "not feeling good" → "not feeling well"
+- **Preposition and article mistakes** — "good in English" → "good at English"
+- **Awkward phrasing** — "I am having a doubt" → "I have a doubt"
